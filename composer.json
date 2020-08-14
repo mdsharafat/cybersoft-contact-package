@@ -1,0 +1,19 @@
+{
+    "name": "cybersoft/contact",
+    "description": "This package will send email to admin and save contact message to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mdsharafat",
+            "email": "sharafat.sohan047@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cybersoft\\Contact\\": "src/"
+        }
+    }
+}
